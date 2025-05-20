@@ -1,3 +1,17 @@
+
+
+TANGINAMO LAZHAR!!!!!!!!!!!!!!!!
+
+
+
+
+
+
+
+
+
+
+
 import sys
 import random
 import tkinter as tk
